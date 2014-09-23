@@ -4,9 +4,11 @@
  </head>
  <body>
   <h1>301 Moved Permanently</h1>
-  The resource has been moved to <a href="https://sourceforge.net/projects/ankus/upload/ankus-core/0.2.2/ankus-core-0.2.2.jar">core-library 0.2.2</a>;
-you should be redirected automatically.
-
-
+  The resource can downloaded to this link: 
+    <a href="https://sourceforge.net/projects/ankus/upload/ankus-core/0.2.2/ankus-core-0.2.2.jar">
+        core-library 0.2.2
+    </a>
+  <br>
+  You should be redirected automatically.
  </body>
 </html>
