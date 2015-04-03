@@ -1,33 +1,48 @@
-The ankus project
- - The ankus is a ‘web-based bigdata mining project and tool’.
-   - The ankus focuses to a mapreduce-based data mining and machine learning algorithms library that can be used on hadoop-based distributed bigdata system. And the ankus offers web-based GUI(Graphical User Interface) for easy use.
-   - The ankus consists of three projects.
-     1. The ankus-core project about the mapreduce-based data mining and machine learning algorithms.
-     2. The ankus-web project about supporting the ankus core library to be used on web.
-     3. The ankus-visualization project about visualizing analysis results of the algorithms in ankus-core project. This project is started soon.
+[The feature of ankus]
+ankus is a 'web-based big data mining project and tool' 
 
- - The ankus has Dual licensed under the community and commercial licenses.
-   - The ankus-core project is under the apache version 2.0 license.
-   - The ankus-web project is under the GPL version 3.0 license for community and non-commercial use. (Open source ‘ExtJs’ is used in this project.)
-   - The ankus-visualization project is under the BSD license. (Open source ‘D3’ is used in this project.)
-   - If you want ankus to use for commercial or to avoid the GPL version 3.0 license, you can comply with the commercial license.
+ 	MapReduce-based data mining and machine learning algorithms library
+ 	Hadoop-based distributed bigdata system
+ 	offering a Hadoop data management and job monitoring 
+ 	offering a web-based GUI(Graphical User Interface) for easy use
+ 	Workflow-based big data analysis design
 
- - Community for ankus users.
-   - http://openankus.org (official website of ankus)
-   - http://www.facebook.com/groups/openankus (Korean facebook group)
-   - http://www.facebook.com/openankus (facebook page)
-   - http://goo.gl/d8nP81 (google groups)
-   - http://14.63.160.233:8080 (demonstration site(1), ID/PW : guest/guest)
-   - http://14.63.168.194:8080 (demonstration site(2), ID/PW : guest/guest)
-   - http://14.63.162.210:8080 (demonstration site(3), ID/PW : guest/guest)
+[The ankus project] 
+The ankus project consists of three as an open source 
 
- - Download latest version of the source codes and the jar/war files.
-   - http://github.com/openankus/ankus (source codes)
-   - http://sourceforge.net/projects/ankus (jar/war files)
+ 	ankus core project
+  : for the mapreduce-based data mining and machine learning algorithms
+ 	ankus web project
+ 	: for supporting the web GUI interface by using 'ExtJS'
+ 	ankus visualization project
+ 	: for visualizing the analysis results by using 'D3.js'
 
- - Experience the ankus before installing.
-   - http://youtu.be/1XVQQ3BOlUo (user guide video)
-   - http://www.youtube.com/watch?v=UOS2LM0-G_I (analysis example video)
+[License] 
+ankus has Dual licensed under the community and commercial licenses 
 
- - Contact us for more details.
-   - ankus@openankus.org
+ 	ankus core project
+  : under the apache version 2.0 license
+ 	ankus web project
+ 	: under the GPL version 3.0 license for non-commercial use
+ 	ankus visualization project
+  : under the BSD license
+  
+[Demonstration Site] 
+You can try ankus at
+http://www.openankus.org:18080
+
+[Official website]
+www.openankus.org
+
+[Official E-mail] 
+ankus@openankus.org
+
+[ankus video] 
+	Introduction of ankus : http://bit.ly/ankus_Concept_eng
+	User guide of ankus : http://bit.ly/ankus_Demo_eng
+	other video playlist: http://bit.ly/ankus_video
+
+[Community]
+http://www.facebook.com/groups/openankus (Korean Groups)
+http://www.facebook.com/openankus (English Groups)
+http://bit.ly/ankus_forum (Google groups user forum)
