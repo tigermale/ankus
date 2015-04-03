@@ -12,16 +12,16 @@
   - ankus visualization project: BSD license 
 
 [Demonstration Site]
-  http://www.openankus.org:18080
+  - http://www.openankus.org:18080
 
 [Official website & E-mail]
-  www.openankus.org
-  ankus@openankus.org
+  - www.openankus.org
+  - ankus@openankus.org
 
 [ankus video list]
-  http://bit.ly/ankus_video
+  - http://bit.ly/ankus_video
 
 [community]
-  http://www.facebook.com/groups/openankus (Korean Groups)
-  http://www.facebook.com/openankus (English Groups)
-  http://bit.ly/ankus_forum (Google groups user forum)
+  - http://www.facebook.com/groups/openankus (Korean Groups)
+  - http://www.facebook.com/openankus (English Groups)
+  - http://bit.ly/ankus_forum (Google groups user forum)
